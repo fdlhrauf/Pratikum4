@@ -6,6 +6,7 @@ Praktek kali ini, saya akan membuat program menghitung menentukan nilai mahasisw
 * Contoh Code dan Penjelasan
  
 print("==================================================================")
+
 print("|             PROGRAM INPUT DATA NILAI MAHASISWA                 |")
 print("==================================================================")
 
